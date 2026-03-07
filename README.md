@@ -52,7 +52,7 @@
 <h3>👋 Who Am I?</h3>
 
 <p align="justify">
-I'm <strong>BRUTAL-45</strong>, a passionate developer who loves turning ideas into reality through code. I believe in writing clean, efficient, and maintainable code that makes a difference in people's lives.
+I'm <strong>Brutal-45</strong>, a passionate developer who loves turning ideas into reality through code. I believe in writing clean, efficient, and maintainable code that makes a difference in people's lives.
 </p>
 
 ```yaml
@@ -367,7 +367,7 @@ I'm <strong>BRUTAL-45</strong>, a passionate developer who loves turning ideas i
 </p>
 
 <p align="center">
-  <b>Made with 💖 by BRUTAL-45</b>
+  <b>Made with 💖 by Brutal-45</b>
 </p>
 
 ---
