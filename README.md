@@ -1,23 +1,329 @@
-<h1 align="center">Hi 👋, I'm Brutal-45</h1>
-<h3 align="center">A passionate frontend developer from Earth</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=F704F7&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hey+%F0%9F%91%8B%2C+I'm+BRUTAL-45;Welcome+to+my+Profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brutal-45" alt="brutal-45" /></a> </p>
+<br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  <a href="https://github.com/brutal-45">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  </a>
+</div>
 
-- 🔭 I’m currently working on **brutal-ai**
+<br>
 
-- 📫 How to reach me **creatorsports81@gmail.com**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,6,25,30,12,2&height=200&section=header&text=BRUTAL-45&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&animation=twinkling" width="100%"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brutal-45&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/brutal-45?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=ff69b4" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/brutal-45?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=gold" alt="GitHub Stars"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brutal-45&show_icons=true&locale=en&layout=compact" alt="brutal-45" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&locale=en" alt="brutal-45" /></p>
+<div align="center">
+  <a href="https://github.com/brutal-45">
+    <img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&row=1" alt="Trophy"/>
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brutal-45&" alt="brutal-45" /></p>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- About Me Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%91%8B+About+Me" alt="About Me Header" />
+</div>
+
+<br>
+
+<div align="center">
+  
+```yaml
+name: BRUTAL-45
+location: 🌍 Earth
+current_focus: Full Stack Development
+interests: 
+  - 🚀 Web Development
+  - 🤖 AI & Machine Learning
+  - 🔐 Cybersecurity
+  - ☁️ Cloud Computing
+hobbies: 
+  - 💻 Coding
+  - 📚 Learning
+  - 🎮 Gaming
+  - 🎵 Music
+motto: "Code is poetry written in the language of logic"
+```
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Skills Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=00FF7F&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack Header" />
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🖥️ Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c,go,rust,php,ruby,swift,kotlin&perline=6&theme=dark" alt="Languages"/>
+
+<br><br>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,css,html,bootstrap,sass,redux&perline=6&theme=dark" alt="Frontend"/>
+
+<br><br>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi,graphql,nginx&perline=6&theme=dark" alt="Backend"/>
+
+<br><br>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase,supabase,prisma&perline=6&theme=dark" alt="Databases"/>
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,bash,terraform,vercel,netlify,heroku,digitalocean&perline=6&theme=dark" alt="Cloud & DevOps"/>
+
+<br><br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,postman,notion,jira,discord,slack&perline=6&theme=dark" alt="Tools"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Stats Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%8A+GitHub+Stats" alt="Stats Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/brutal-45">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=15&card_width=500"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&langs_count=10&theme=radical&hide_border=false&border_radius=15&card_width=400"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/brutal-45">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brutal-45&theme=radical&hide_border=false&border_radius=15&background=1a1a2e&stroke=ff69b4" alt="Streak Stats"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/brutal-45">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brutal-45&bg_color=1a1a2e&color=ff69b4&line=00d9ff&point=ffffff&area=true&hide_border=false&radius=15" width="95%" alt="Activity Graph"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=9B59B6&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake" alt="Snake Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Quotes Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=F1C40F&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%92%A1+Random+Dev+Quote" alt="Quote Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&border_radius=15" alt="Random Dev Quote"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Badges Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=00CED1&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%8F%86+Badges+%26+Achievements" alt="Badges Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" alt="Python"/>
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" alt="React"/>
+  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e" alt="Node.js"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a2e" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1a2e" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" alt="Docker"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript"/>
+  <img src="https://forthebadge.com/images/badges/uses-git.svg" alt="Uses Git"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Social Links -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=E74C3C&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%93%A1+Connect+With+Me" alt="Connect Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/brutal-45">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/brutal-45">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/brutal-45">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:brutal-45@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/brutal-45">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Joke Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=2ECC71&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%98%82+Dev+Joke" alt="Joke Header" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderRadius=15&borderColor=ff69b4" alt="Dev Joke"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,6,25,30,12,2&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontAlignY=70&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=500&lines=⭐+Star+my+repos+if+you+find+them+useful!;🔄+Fork+and+contribute!;💬+Let's+collaborate!" alt="Footer Typing"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- 
+  ╭━━━━╮╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╭╮
+  ┃╭╮╭╮┃╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╭╯╰╮╱╱╱╱╱┃┃
+  ╰╯┃┃┣┻┳┳┳┳┳╮╭┫┃╭┳━╮╱╰╮╭╋━━┳┳━╮┃┃
+  ╱╱┃┃┃╭╋┫┃┃┃┃┃┣┫┃┃╭╮┳━╮┃┃┃╭╮┣┫╭╮┫┃
+  ╱╱┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃╭╮┃┃┃╭╮┃┃┃┃┃┃
+  ╱╱╰╯╰╯╰┻┻┻┻╯╰┻┻┻┻╯╰╯╰┻┻┻╯╰┻╯╰┻╯
+  
+  Made with 💖 by BRUTAL-45
+-->
