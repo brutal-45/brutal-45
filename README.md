@@ -10,10 +10,10 @@
 ████████████████████████████████████████████████████████████████████████████████
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,17:FF8E53,33:FEC89A,50:FFD93D,67:B2FEFA,83:9FACE6,100:667EEA&height=200&section=header&text=BRUTAL-45&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20Tech%20Enthusiast&descAlignY=58&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,17:FF8E53,33:FEC89A,50:FFD93D,67:B2FEFA,83:9FACE6,100:667EEA&height=200&section=header&text=Brutal-45&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20Tech%20Enthusiast&descAlignY=58&descSize=15"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+BRUTAL-45;🚀+Full+Stack+Developer;💻+Open+Source+Enthusiast;🎯+Problem+Solver;☕+Turning+Coffee+into+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Enthusiast;🎯+Problem+Solver;☕+Turning+Coffee+into+Code" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -373,7 +373,7 @@ I'm <strong>BRUTAL-45</strong>, a passionate <strong>Full Stack Developer</stron
 </p>
 
 <p align="center">
-  <b>Made with 💖 by <a href="https://github.com/brutal-45">BRUTAL-45</a></b>
+  <b>Made with 💖 by <a href="https://github.com/brutal-45">Brutal-45</a></b>
 </p>
 
 ---
