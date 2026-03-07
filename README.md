@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=BRUTAL-45&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Brutal-45&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
