@@ -1,11 +1,11 @@
-<!-- BRUTAL-45 GitHub Profile README -->
+<!-- Brutal-45 GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,30,12,2&height=200&section=header&text=BRUTAL-45&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,30,12,2&height=200&section=header&text=Brutal-45&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=F781BE&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hey+there!+I'm+BRUTAL-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=F781BE&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@
 
 ### 👋 Who am I?
 
-I'm **BRUTAL-45**, a passionate **Full Stack Developer** who loves building amazing web experiences. I believe in writing clean, efficient, and maintainable code that makes a difference.
+I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amazing web experiences. I believe in writing clean, efficient, and maintainable code that makes a difference.
 
 ```
 ╔══════════════════════════════════════╗
-║  🎭  Name: BRUTAL-45                 ║
+║  🎭  Name: Brutal-45                 ║
 ║  🌍  Location: Planet Earth          ║
 ║  💼  Role: Full Stack Developer      ║
 ║  🎯  Focus: Web & Cloud Solutions    ║
@@ -304,7 +304,7 @@ I'm **BRUTAL-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <b>Made with 💖 by <a href="https://github.com/Brutal-45">BRUTAL-45</a></b>
+  <b>Made with 💖 by <a href="https://github.com/Brutal-45">Brutal-45</a></b>
 </p>
 
 ---
