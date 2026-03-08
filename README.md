@@ -1,11 +1,11 @@
 <!-- BRUTAL-45 GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,14:FF8E53,28:FEC89A,42:FFD93D,56:9FACE6,70:B2FEFA,84:667EEA,100:F781BE&height=220&section=header&text=BRUTAL-45&fontSize=65&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=14" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,14:FF8E53,28:FEC89A,42:FFD93D,56:9FACE6,70:B2FEFA,84:667EEA,100:F781BE&height=220&section=header&text=Brutal-45&fontSize=65&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=14" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=600&color=FF6B6B&center=true&vCenter=true&repeat=true&width=650&lines=👋+Hey+there!+I'm+BRUTAL-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=600&color=FF6B6B&center=true&vCenter=true&repeat=true&width=650&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -45,20 +45,20 @@
 I'm **BRUTAL-45**, a passionate **Full Stack Developer** who loves building amazing web experiences. I believe in writing clean, efficient, and maintainable code that makes a difference.
 
 ```
-╔══════════════════════════════════════╗
-║  🎭  Name: BRUTAL-45                 ║
-║  🌍  Location: Planet Earth          ║
-║  💼  Role: Full Stack Developer      ║
-║  🎯  Focus: Web & Cloud Solutions    ║
-║  📧  Contact: brutal-45@example.com  ║
-║  ⚡  Motto: Code Hard, Dream Big     ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  🎭  Name: Brutal-45                    ║
+║  🌍  Location: Planet Earth             ║
+║  💼  Role: Full Stack Developer         ║
+║  🎯  Focus: Web & Cloud Solutions       ║
+║  📧  Contact: creatorsports81@gmail.com ║
+║  ⚡  Motto: Code Hard, Dream Big        ║
+╚══════════════════════════════════════════╝
 ```
 
 </td>
 <td width="50%">
 
-### 🎯 2024 Goals
+### 🎯  Goals
 
 | 🎯 Goal | 📊 Progress |
 |:-------:|:-----------:|
@@ -300,7 +300,7 @@ I'm **BRUTAL-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <b>Made with 💖 by <a href="https://github.com/brutal-45">BRUTAL-45</a></b>
+  <b>Made with 💖 by <a href="https://github.com/brutal-45">Brutal-45</a></b>
 </p>
 
 ---
