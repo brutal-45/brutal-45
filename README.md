@@ -45,14 +45,14 @@
 I'm **BRUTAL-45**, a passionate **Full Stack Developer** who loves building amazing web experiences. I believe in writing clean, efficient, and maintainable code that makes a difference.
 
 ```
-╔══════════════════════════════════════╗
-║  🎭  Name: BRUTAL-45                 ║
-║  🌍  Location: Planet Earth          ║
-║  💼  Role: Full Stack Developer      ║
-║  🎯  Focus: Web & Cloud Solutions    ║
-║  📧  Contact: brutal-45@example.com  ║
-║  ⚡  Motto: Code Hard, Dream Big     ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  🎭  Name: BRUTAL-45                    ║
+║  🌍  Location: Planet Earth             ║
+║  💼  Role: Full Stack Developer         ║
+║  🎯  Focus: Web & Cloud Solutions       ║
+║  📧  Contact: creatorsports81@gmail.com ║
+║  ⚡  Motto: Code Hard, Dream Big        ║
+╚══════════════════════════════════════════╝
 ```
 
 </td>
