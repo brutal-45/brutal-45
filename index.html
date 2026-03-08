@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRUTAL-45 | Image Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #ffffff;
+        }
+
+        .header {
+            background: linear-gradient(90deg, #FF6B6B, #FEC89A, #FFD93D, #9FACE6, #B2FEFA, #667EEA, #F781BE);
+            padding: 30px 20px;
+            text-align: center;
+            background-size: 200% 200%;
+            animation: gradientMove 3s ease infinite;
+        }
+
+        @keyframes gradientMove {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .section-title h2 {
+            font-size: 1.8rem;
+            background: linear-gradient(90deg, #FF6B6B, #FFD93D);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .section-title p {
+            color: #9FACE6;
+        }
+
+        .instructions {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 40px;
+            backdrop-filter: blur(10px);
+        }
+
+        .instructions h3 {
+            color: #F781BE;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+
+        .instructions code {
+            background: rgba(0,0,0,0.3);
+            padding: 3px 8px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            color: #FFD93D;
+            font-size: 0.9rem;
+        }
+
+        .instructions ul {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+
+        .instructions li {
+            margin: 8px 0;
+            color: #B2FEFA;
+        }
+
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+
+        .gallery-item {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .gallery-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(247, 129, 190, 0.2);
+            border-color: #F781BE;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 150px;
+            object-fit: contain;
+            background: #0a0a0f;
+            padding: 10px;
+        }
+
+        .gallery-item .info {
+            padding: 15px;
+        }
+
+        .gallery-item h4 {
+            color: #F781BE;
+            margin-bottom: 8px;
+            font-size: 1rem;
+        }
+
+        .gallery-item .url {
+            background: rgba(0,0,0,0.3);
+            padding: 10px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.7rem;
+            color: #9FACE6;
+            word-break: break-all;
+            margin-top: 10px;
+        }
+
+        .gallery-item .copy-btn {
+            background: linear-gradient(90deg, #F781BE, #FF6B6B);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            color: white;
+            cursor: pointer;
+            font-size: 0.85rem;
+            margin-top: 10px;
+            transition: all 0.3s ease;
+            width: 100%;
+        }
+
+        .gallery-item .copy-btn:hover {
+            transform: scale(1.02);
+            box-shadow: 0 5px 20px rgba(247, 129, 190, 0.4);
+        }
+
+        .gallery-item .copy-btn.copied {
+            background: linear-gradient(90deg, #2ECC71, #27AE60);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            background: rgba(0,0,0,0.2);
+            margin-top: 50px;
+        }
+
+        .footer p {
+            color: #9FACE6;
+        }
+
+        .footer a {
+            color: #F781BE;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: linear-gradient(90deg, #2ECC71, #27AE60);
+            color: white;
+            padding: 15px 25px;
+            border-radius: 10px;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .usage-example {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        .usage-example code {
+            font-size: 0.75rem;
+            color: #B2FEFA;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎨 BRUTAL-45 Image Gallery</h1>
+        <p>All images for your GitHub README - No more fetch errors!</p>
+    </div>
+
+    <div class="container">
+        <div class="instructions">
+            <h3>📋 How to Use</h3>
+            <ul>
+                <li>📁 All images are stored in the <code>images/</code> folder</li>
+                <li>🔗 Use the URL format: <code>https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/FILENAME.gif</code></li>
+                <li>📝 Click "Copy URL" button to copy the image URL</li>
+                <li>✅ All images are now hosted on your GitHub - No more fetch errors!</li>
+            </ul>
+        </div>
+
+        <div class="section-title">
+            <h2>🎬 Animated GIFs</h2>
+            <p>Section icons for your README</p>
+        </div>
+
+        <div class="gallery-grid" id="gifs-grid">
+            <div class="gallery-item">
+                <img src="fire.gif" alt="Fire Animation">
+                <div class="info">
+                    <h4>🔥 Fire Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Current Status section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/fire.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/fire.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="wave.gif" alt="Wave Animation">
+                <div class="info">
+                    <h4>👋 Wave Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: About Me section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/wave.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/wave.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="rocket.gif" alt="Rocket Animation">
+                <div class="info">
+                    <h4>🚀 Rocket Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Tech Stack section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/rocket.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/rocket.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="chart.gif" alt="Chart Animation">
+                <div class="info">
+                    <h4>📊 Chart Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: GitHub Stats section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/chart.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/chart.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="snake.gif" alt="Snake Animation">
+                <div class="info">
+                    <h4>🐍 Snake Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Contribution Snake section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/snake.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/snake.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="trophy.gif" alt="Trophy Animation">
+                <div class="info">
+                    <h4>🏆 Trophy Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Achievements section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/trophy.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/trophy.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="sparkle.gif" alt="Sparkle Animation">
+                <div class="info">
+                    <h4>✨ Sparkle Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Fun Zone section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/sparkle.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/sparkle.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="coffee.gif" alt="Coffee Animation">
+                <div class="info">
+                    <h4>☕ Coffee Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Support section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/coffee.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/coffee.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="coding.gif" alt="Coding Animation">
+                <div class="info">
+                    <h4>💻 Coding Animation</h4>
+                    <p style="color: #B2FEFA; font-size: 0.85rem;">Use for: Footer section</p>
+                    <div class="url">https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/coding.gif</div>
+                    <button class="copy-btn" onclick="copyUrl(this, 'https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/coding.gif')">📋 Copy URL</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-title">
+            <h2>📝 Usage Example</h2>
+            <p>How to use in README.md</p>
+        </div>
+
+        <div class="instructions">
+            <h3>Markdown Example:</h3>
+            <div class="usage-example">
+                <code>
+                    ## &lt;img src="https://raw.githubusercontent.com/brutal-45/brutal-45/main/images/rocket.gif" width="35" alt="Rocket"&gt; Tech Stack
+                </code>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Made with 💖 by <a href="https://github.com/brutal-45">BRUTAL-45</a></p>
+        <p style="margin-top: 10px; font-size: 0.9rem;">Total Images: 9 | All hosted on GitHub ✅</p>
+    </div>
+
+    <div class="toast" id="toast">✅ URL Copied!</div>
+
+    <script>
+        function copyUrl(btn, url) {
+            navigator.clipboard.writeText(url).then(() => {
+                const toast = document.getElementById('toast');
+                toast.classList.add('show');
+                setTimeout(() => toast.classList.remove('show'), 2000);
+                
+                const originalText = btn.textContent;
+                btn.textContent = '✅ Copied!';
+                btn.classList.add('copied');
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
