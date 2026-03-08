@@ -73,7 +73,7 @@ I'm <strong>BRUTAL-45</strong>, a passionate <strong>Full Stack Developer</stron
 │  🌍  Location: Planet Earth          │
 │  💼  Role: Full Stack Developer      │
 │  🎯  Focus: Web & Cloud Solutions    │
-│  📧  Contact: brutal-45@example.com  │
+│  📧  Contact: creatorsports81@gmail.com  │
 │  ⚡  Motto: Code Hard, Dream Big     │
 └──────────────────────────────────────┘
 </pre>
