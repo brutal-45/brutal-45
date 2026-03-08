@@ -67,15 +67,15 @@ I'm <strong>BRUTAL-45</strong>, a passionate <strong>Full Stack Developer</stron
 
 <br>
 
-<pre>
-┌──────────────────────────────────────┐
-│  🎭  Name: BRUTAL-45                 │
-│  🌍  Location: Planet Earth          │
-│  💼  Role: Full Stack Developer      │
-│  🎯  Focus: Web & Cloud Solutions    │
+<pre>                                   
+┌──────────────────────────────────────────┒
+│  🎭  Name: BRUTAL-45                     |
+│  🌍  Location: Planet Earth              │
+│  💼  Role: Full Stack Developer          │
+│  🎯  Focus: Web & Cloud Solutions        │
 │  📧  Contact: creatorsports81@gmail.com  │
-│  ⚡  Motto: Code Hard, Dream Big     │
-└──────────────────────────────────────┘
+│  ⚡  Motto: Code Hard, Dream Big         │
+└──────────────────────────────────────────┘
 </pre>
 
 </td>
