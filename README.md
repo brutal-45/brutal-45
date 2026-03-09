@@ -401,57 +401,8 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <b>Made with 💖 by <a href="https://github.com/Brutal-45">Brutal-45</a></b>
+  <b>Made by Brutaltools <a href="https://github.com/Brutal-45">Brutal-45</a></b>
 </p>
 
 ---
 
-<!-- 🚀 Setup Instructions -->
-<details>
-<summary>🚀 <b>Setup Instructions (Click to Expand)</b></summary>
-
-<br>
-
-### 📋 Enable Contribution Snake Animation
-
-Create a file `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Brutal-45
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### 🔧 Customize Your Profile
-
-1. **Replace social links** with your actual profiles
-2. **Update the goals table** with your real progress
-3. **Modify the tech stack icons** as needed
-4. **Update contact information** in the about section
-
-</details>
