@@ -1,39 +1,60 @@
 <!-- Brutal-45 GitHub Profile README -->
 
+<!-- 🔥 Animated Header with Multiple Effects -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,30,12,2&height=200&section=header&text=Brutal-45&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=250&section=header&text=Brutal-45&fontSize=70&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" width="100%">
 </p>
 
+<!-- ⌨️ Typing Animation with Blinking Cursor -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=600&color=F781BE&center=true&vCenter=true&repeat=true&width=600&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=400&color=F781BE&center=true&vCenter=true&repeat=true&width=650&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!" alt="Typing Animation">
 </p>
 
+<!-- 💫 Animated Badges with Glow Effect -->
 <p align="center">
-  <a href="https://github.com/Brutal-45?tab=followers"><img src="https://img.shields.io/github/followers/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=F781BE&label=Followers" alt="Followers"></a>
-  <a href="https://github.com/Brutal-45"><img src="https://img.shields.io/github/stars/Brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e&color=F7DC6F&label=Stars" alt="Stars"></a>
-  <a href="https://github.com/Brutal-45"><img src="https://img.shields.io/github/forks/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=9FACE6&label=Forks" alt="Forks"></a>
-  <a href="https://github.com/Brutal-45"><img src="https://komarev.com/ghpvc/?username=Brutal-45&style=for-the-badge&color=5865F2&labelColor=1a1a2e&label=Profile+Views" alt="Profile Views"></a>
+  <a href="https://github.com/Brutal-45?tab=followers">
+    <img src="https://img.shields.io/github/followers/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=F781BE&label=Followers" alt="Followers">
+  </a>
+  <a href="https://github.com/Brutal-45">
+    <img src="https://img.shields.io/github/stars/Brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a2e&color=F7DC6F&label=Stars" alt="Stars">
+  </a>
+  <a href="https://github.com/Brutal-45">
+    <img src="https://img.shields.io/github/forks/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=9FACE6&label=Forks" alt="Forks">
+  </a>
+  <a href="https://github.com/Brutal-45">
+    <img src="https://komarev.com/ghpvc/?username=Brutal-45&style=for-the-badge&color=5865F2&labelColor=1a1a2e&label=Profile+Views" alt="Profile Views">
+  </a>
 </p>
 
+<!-- 🏆 Trophy Case with Animation -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophy"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&row=1" width="100%" alt="Trophy">
+  </a>
+</p>
+
+<!-- 📊 Animated GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&bg_color=1a1a2e&title_color=F781BE&icon_color=5865F2&text_color=FFFFFF&ring_color=F781BE" height="200" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=F781BE&text_color=FFFFFF&icon_color=F7DC6F&ring_color=F7DC6F" height="200" alt="Top Languages">
 </p>
 
 ---
 
-## 🔥 Current Status
+<!-- 🔥 Status Section with Typing Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=🔥%20CURRENT%20STATUS%20🔥&fontSize=20&fontColor=F781BE&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=500&color=F7DC6F&center=true&vCenter=true&repeat=true&width=600&lines=🔭+Currently+working+on%3A+Awesome+Web+Projects;🌱+Currently+learning%3A+AI%2FML+%26+Cloud+Architecture;👯+Looking+to+collaborate+on%3A+Open+Source+Projects;💬+Ask+me+about%3A+Web+Development%2C+DevOps%2C+APIs;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud!" alt="Status Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=400&color=4ECDC4&center=true&vCenter=true&repeat=true&width=600&lines=🔭+Currently+working+on%3A+Awesome+Web+Projects;🌱+Currently+learning%3A+AI%2FML+%26+Cloud+Architecture;👯+Looking+to+collaborate+on%3A+Open+Source+Projects;💬+Ask+me+about%3A+Web+Development%2C+DevOps%2C+APIs;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud!" alt="Status Typing">
 </p>
 
 ---
 
-## 👤 About Me
-
+<!-- 👤 About Me Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&bg_color=1a1a2e&title_color=F781BE&icon_color=5865F2&text_color=FFFFFF" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=F781BE&text_color=FFFFFF&icon_color=F7DC6F" height="180" alt="Top Languages">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=👤%20ABOUT%20ME%20👤&fontSize=20&fontColor=4ECDC4&fontAlign=50&animation=fadeIn" width="100%">
 </p>
 
 <table>
@@ -73,10 +94,13 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 ---
 
-## 🛠️ Tech Stack
+<!-- 🛠️ Tech Stack Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=🛠️%20TECH%20STACK%20🛠️&fontSize=20&fontColor=45B7D1&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&color=F781BE&center=true&vCenter=true&repeat=true&width=450&lines=💻%20Languages%20%7C%20🎨%20Frontend%20%7C%20⚙️%20Backend%20%7C%20☁️%20Cloud" alt="Tech Categories">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=400&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💻%20Languages%20%7C%20🎨%20Frontend%20%7C%20⚙️%20Backend%20%7C%20☁️%20Cloud" alt="Tech Categories">
 </p>
 
 <table>
@@ -164,24 +188,32 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- 📊 GitHub Stats Section -->
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=false&border_radius=20&include_all_commits=true&count_private=true&title_color=F781BE&icon_color=F7DC6F&text_color=FFFFFF&bg_color=1a1a2e" alt="GitHub Stats">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&border_radius=20&title_color=F7DC6F&text_color=FFFFFF&bg_color=1a1a2e" alt="Top Languages">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=📊%20GITHUB%20STATS%20📊&fontSize=20&fontColor=F7DC6F&fontAlign=50&animation=fadeIn" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutal-45&theme=tokyonight&hide_border=false&border_radius=20&background=1a1a2e&stroke=F781BE&ring=F7DC6F&fire=F781BE&currLabel=F7DC6F&sideNums=FFFFFF&sideLabels=9FACE6&dates=FFFFFF" width="95%" alt="Streak Stats">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=false&border_radius=20&include_all_commits=true&count_private=true&title_color=F781BE&icon_color=F7DC6F&text_color=FFFFFF&bg_color=1a1a2e&ring_color=F781BE" alt="GitHub Stats">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&border_radius=20&title_color=F7DC6F&text_color=FFFFFF&bg_color=1a1a2e" alt="Top Languages">
 </p>
 
+<!-- 🔥 Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brutal-45&bg_color=1a1a2e&color=F781BE&line=F7DC6F&point=9FACE6&area=true&hide_border=false&radius=20" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brutal-45&theme=tokyonight&hide_border=false&border_radius=20&background=1a1a2e&stroke=F781BE&ring=F7DC6F&fire=FF6B6B&currLabel=4ECDC4&sideNums=FFFFFF&sideLabels=9FACE6&dates=FFFFFF" width="95%" alt="Streak Stats">
+</p>
+
+<!-- 📈 Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brutal-45&bg_color=1a1a2e&color=F781BE&line=4ECDC4&point=F7DC6F&area=true&hide_border=false&radius=16" width="95%" alt="Activity Graph">
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- 🐍 Contribution Snake Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=🐍%20CONTRIBUTION%20SNAKE%20🐍&fontSize=20&fontColor=45B7D1&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <p align="center">
   <picture>
@@ -197,12 +229,16 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 ---
 
-## 🏆 Achievements & Badges
+<!-- 🏆 Achievements Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=🏆%20ACHIEVEMENTS%20🏆&fontSize=20&fontColor=FF6B6B&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <p align="center">
   <img src="https://github-profile-achievements.vercel.app/api?user=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=10&column=7" alt="Achievements">
 </p>
 
+<!-- 🎖️ Fun Badges -->
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
   <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
@@ -221,11 +257,15 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
   <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" alt="Didn't Ask">
   <img src="https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg" alt="Not a Lie">
   <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl C Ctrl V">
+  <img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="Gluten Free">
 </p>
 
 ---
 
-## 🎭 Fun Zone
+<!-- 🎭 Fun Zone -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=🎭%20FUN%20ZONE%20🎭&fontSize=20&fontColor=9FACE6&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <table>
 <tr>
@@ -252,10 +292,13 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 ---
 
-## 📡 Let's Connect
+<!-- 📡 Connect Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=📡%20LET'S%20CONNECT%20📡&fontSize=20&fontColor=4ECDC4&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=9FACE6&center=true&vCenter=true&repeat=true&width=550&lines=🌟+I'm+always+open+to+interesting+conversations!;🤝+Let's+collaborate+and+build+something+amazing!;💡+Feel+free+to+reach+out+anytime!" alt="Connect Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=600&color=4ECDC4&center=true&vCenter=true&repeat=true&width=550&lines=🌟+I'm+always+open+to+interesting+conversations!;🤝+Let's+collaborate+and+build+something+amazing!;💡+Feel+free+to+reach+out+anytime!;📧+Email+me+at%3A+creatorsports81@gmail.com" alt="Connect Typing">
 </p>
 
 <p align="center">
@@ -276,10 +319,13 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 ---
 
-## ❤️ Support My Work
+<!-- ❤️ Support Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d2d44&height=50&section=header&text=❤️%20SUPPORT%20MY%20WORK%20❤️&fontSize=20&fontColor=F781BE&fontAlign=50&animation=fadeIn" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💖+If+you+like+my+work%2C+consider+supporting!;⭐+Don't+forget+to+star+my+repositories!;☕+Buy+me+a+coffee+and+fuel+my+coding!" alt="Support Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=600&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💖+If+you+like+my+work%2C+consider+supporting!;⭐+Don't+forget+to+star+my+repositories!;☕+Buy+me+a+coffee+and+fuel+my+coding!;🙏+Thank+you+for+your+support!" alt="Support Typing">
 </p>
 
 <p align="center">
@@ -291,16 +337,13 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 ---
 
+<!-- 🌊 Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,30,12,2&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Keep%20Coding%20%F0%9F%9A%80&descAlignY=60" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,50:4ECDC4,100:FF6B6B&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Keep%20Coding%20%F0%9F%9A%80&descAlignY=60&descSize=18" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=600&color=F7DC6F&center=true&vCenter=true&repeat=true&width=450&lines=⭐+Star+my+repos!;🔄+Fork+and+contribute!;💬+Let's+collaborate!" alt="Footer Typing">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/👀+Visitors-1a1a2e?style=for-the-badge&color=F781BE&labelColor=1a1a2e" alt="Visitor Counter">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=400&color=F7DC6F&center=true&vCenter=true&repeat=true&width=500&lines=⭐+Star+my+repos!;🔄+Fork+and+contribute!;💬+Let's+collaborate!;🎯+Happy+Coding!" alt="Footer Typing">
 </p>
 
 <p align="center">
