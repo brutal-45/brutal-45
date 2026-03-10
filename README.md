@@ -401,7 +401,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <b>Made by Brutaltools <a href="https://github.com/Brutal-45">Brutal-45</a></b>
+  <b>Made by Brutaltools.. <a href="https://github.com/Brutal-45">Brutal-45</a></b>
 </p>
 
 ---
