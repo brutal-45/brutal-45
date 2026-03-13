@@ -99,7 +99,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </td>
 <td width="45%">
 
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 
 | 🎯 Goal | 📊 Progress |
 |:-------:|:-----------:|
