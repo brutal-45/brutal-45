@@ -1,7 +1,7 @@
 <!-- Brutal-45 GitHub Profile README -->
 
 <!-- 🌟 Animated Sparkles Header -->
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:9FACE6,80:F781BE,100:F7DC6F&height=280&section=header&text=Brutal-45&fontSize=75&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%">
 </p>
 
