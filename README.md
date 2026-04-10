@@ -22,7 +22,7 @@
 
 <!-- 🔥 Stats Badges Row -->
 <p align="center">
-  <a href="https://github.com/Brutal-45?tab=followers">
+  <a href="https://github.com/Brutal-45?tab=followers"> 
     <img src="https://img.shields.io/github/followers/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF6B6B&label=Followers" alt="Followers">
   </a>
   <a href="https://github.com/Brutal-45">
