@@ -126,7 +126,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💻%20Languages%20%7C%20🎨%20Frontend%20%7C%20⚙️%20Backend%20%7C%20☁️%20Cloud" alt="Tech Categories">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💻%20Languages%20%7C%20🎨%20Frontend%20%7C%20⚙️%20Backend%20%7C%20☁️%20Cloud" alt="">
 </p>
 
 <table>
