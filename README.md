@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=300&color=4ECDC4&center=true&vCenter=true&repeat=true&width=650&lines=🔭+Currently+working+on%3A+Awesome+Web+Projects;🌱+Currently+learning%3A+AI%2FML+%26+Cloud+Architecture;👯+Looking+to+collaborate+on%3A+Open+Source+Projects;💬+Ask+me+about%3A+Web+Development%2C+DevOps%2C+APIs;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud!" alt="Status Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=300&color=4ECDC4&center=true&vCenter=true&repeat=true&width=650&lines=🔭+Currently+working+on%3A+Awesome+Web+Projects;🌱+Currently+learning%3A+AI%2FML+%26+Cloud+Architecture;👯+Looking+to+collaborate+on%3A+Open+Source+Projects;💬+Ask+me+about%3A+Web+Development%2C+DevOps%2C+APIs;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud!" alt="">
 </p>
 
 ---
@@ -111,7 +111,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 ### 💻 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brutal-45&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=F781BE" alt="WakaTime">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brutal-45&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=F781BE" alt="">
 </p>
 
 </td>
