@@ -39,13 +39,13 @@
 <!-- 🏆 Trophy Case -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" width="100%" alt="Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" width="100%" alt="">
   </a>
 </p>
 
 <!-- 📊 GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&ring_color=F781BE" height="195" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&ring_color=F781BE" height="195" alt=""> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&icon_color=F7DC6F&ring_color=F7DC6F" height="195" alt="Top Languages">
 </p>
 
