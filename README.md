@@ -22,24 +22,24 @@
 
 <!-- 🔥 Stats Badges Row -->
 <p align="center">
-  <a href="https://github.com/Brutal-45?tab=followers"> 
-    <img src="https://img.shields.io/github/followers/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF6B6B&label=Followers" alt="Followers">
+  <a href="https://github.com/brutal-45?tab=followers"> 
+    <img src="https://img.shields.io/github/followers/brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF6B6B&label=Followers" alt="Followers">
+  </a>
+  <a href="https://github.com/brutal-45">
+    <img src="https://img.shields.io/github/stars/brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=0D1117&color=F7DC6F&label=Stars" alt="Stars">
   </a>
   <a href="https://github.com/Brutal-45">
-    <img src="https://img.shields.io/github/stars/Brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=0D1117&color=F7DC6F&label=Stars" alt="Stars">
+    <img src="https://img.shields.io/github/forks/brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=4ECDC4&label=Forks" alt="Forks">
   </a>
-  <a href="https://github.com/Brutal-45">
-    <img src="https://img.shields.io/github/forks/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=4ECDC4&label=Forks" alt="Forks">
-  </a>
-  <a href="https://github.com/Brutal-45">
-    <img src="https://komarev.com/ghpvc/?username=Brutal-45&style=for-the-badge&color=9FACE6&labelColor=0D1117&label=Profile+Views" alt="Profile Views">
+  <a href="https://github.com/brutal-45">
+    <img src="https://komarev.com/ghpvc/?username=brutal-45&style=for-the-badge&color=9FACE6&labelColor=0D1117&label=Profile+Views" alt="Profile Views">
   </a>
 </p>
 
 <!-- 🏆 Trophy Case -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" width="100%" alt="Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" width="100%" alt="Trophy">
   </a>
 </p>
 
