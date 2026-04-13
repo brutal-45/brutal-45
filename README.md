@@ -28,7 +28,7 @@
   <a href="https://github.com/brutal-45">
     <img src="https://img.shields.io/github/stars/brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=0D1117&color=F7DC6F&label=Stars" alt="Stars">
   </a>
-  <a href="https://github.com/Brutal-45">
+  <a href="https://github.com/brutal-45">
     <img src="https://img.shields.io/github/forks/brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=4ECDC4&label=Forks" alt="Forks">
   </a>
   <a href="https://github.com/brutal-45">
