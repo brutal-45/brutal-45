@@ -252,7 +252,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?user=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="Achievements">
+  <img src="https://github-profile-achievements.vercel.app/api?user=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="">
 </p>
 
 <!-- 🎖️ Fun Badges Row 1 -->
@@ -334,7 +334,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=4ECDC4&center=true&vCenter=true&repeat=true&width=600&lines=🌟+I'm+always+open+to+interesting+conversations!;🤝+Let's+collaborate+and+build+something+amazing!;💡+Feel+free+to+reach+out+anytime!;📧+Email+me+at%3A+creatorsports81@gmail.com" alt="Connect Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=4ECDC4&center=true&vCenter=true&repeat=true&width=600&lines=🌟+I'm+always+open+to+interesting+conversations!;🤝+Let's+collaborate+and+build+something+amazing!;💡+Feel+free+to+reach+out+anytime!;📧+Email+me+at%3A+creatorsports81@gmail.com" alt="">
 </p>
 
 <!-- 🌐 Social Links Row 1 -->
