@@ -216,8 +216,8 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 <!-- 📊 Contribution Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brutal-45&theme=tokyonight" alt="Stats Card">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brutal-45&theme=tokyonight" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brutal-45&theme=tokyonight" alt="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brutal-45&theme=tokyonight" alt="">
 </p>
 
 ---
