@@ -368,7 +368,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=F781BE&center=true&vCenter=true&repeat=true&width=550&lines=💖+If+you+like+my+work%2C+consider+supporting!;⭐+Don't+forget+to+star+my+repositories!;☕+Buy+me+a+coffee+and+fuel+my+coding!;🙏+Thank+you+for+your+support!" alt="Support Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=F781BE&center=true&vCenter=true&repeat=true&width=550&lines=💖+If+you+like+my+work%2C+consider+supporting!;⭐+Don't+forget+to+star+my+repositories!;☕+Buy+me+a+coffee+and+fuel+my+coding!;🙏+Thank+you+for+your+support!" alt="">
 </p>
 
 <p align="center">
