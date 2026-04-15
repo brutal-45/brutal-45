@@ -202,7 +202,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=tokyonight&hide_border=false&border_radius=16&include_all_commits=true&count_private=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117&ring_color=F781BE" alt="">
  
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&border_radius=16&title_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" alt="">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&border_radius=16&title_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" alt="">
 </p>
 
 <!-- 🔥 Streak Stats -->
