@@ -252,7 +252,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?user=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="">
+  <img src="https://github-profile-achievements.vercel.app/api?user=brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="">
 </p>
 
 <!-- 🎖️ Fun Badges Row 1 -->
