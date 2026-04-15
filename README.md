@@ -12,7 +12,7 @@
 
 <!-- ⌨️ Main Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!;💡+Code+%2C+Learn+%2C+Repeat!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!;💡+Code+%2C+Learn+%2C+Repeat!" alt="Typing Animation">
 </p>
 
 <!-- 💫 Animated Welcome Banner -->
@@ -216,7 +216,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 <!-- 📊 Contribution Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brutal-45&theme=tokyonight" alt="Stats Card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brutal-45&theme=tokyonight" alt="Stats Card">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brutal-45&theme=tokyonight" alt="Productive Time">
 </p>
 
@@ -229,9 +229,9 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brutal-45/Brutal-45/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brutal-45/Brutal-45/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Brutal-45/Brutal-45/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
 
