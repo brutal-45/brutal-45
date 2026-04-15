@@ -12,7 +12,7 @@
 
 <!-- ⌨️ Main Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!;💡+Code+%2C+Learn+%2C+Repeat!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!;💡+Code+%2C+Learn+%2C+Repeat!" alt="Typing Animation">
 </p>
 
 <!-- 💫 Animated Welcome Banner -->
