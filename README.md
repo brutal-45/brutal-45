@@ -2,7 +2,7 @@
 
 <!-- 🌟 Animated Sparkles Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:9FACE6,80:F781BE,100:F7DC6F&height=280&section=header&text=brutal-45&fontSize=75&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:4ECDC4,40:45B7D1,60:9FACE6,80:F781BE,100:F7DC6F&height=280&section=header&text=Brutal-45&fontSize=75&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18" width="100%">
 </p>
 
 <!-- 🎬 Coding GIF -->
@@ -12,7 +12,7 @@
 
 <!-- ⌨️ Main Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!;💡+Code+%2C+Learn+%2C+Repeat!" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=700&lines=👋+Hey+there!+I'm+Brutal-45;🚀+Full+Stack+Developer;💻+Open+Source+Contributor;🎯+Problem+Solver+%26+Creator;☕+Turning+Coffee+into+Code;🔥+Let's+Build+Something+Amazing!;💡+Code+%2C+Learn+%2C+Repeat!" alt="Typing Animation">
 </p>
 
 <!-- 💫 Animated Welcome Banner -->
@@ -22,31 +22,31 @@
 
 <!-- 🔥 Stats Badges Row -->
 <p align="center">
-  <a href="https://github.com/brutal-45?tab=followers"> 
-    <img src="https://img.shields.io/github/followers/brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF6B6B&label=Followers" alt="Followers">
+  <a href="https://github.com/Brutal-45?tab=followers"> 
+    <img src="https://img.shields.io/github/followers/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF6B6B&label=Followers" alt="Followers">
   </a>
-  <a href="https://github.com/brutal-45">
-    <img src="https://img.shields.io/github/stars/brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=0D1117&color=F7DC6F&label=Stars" alt="Stars">
+  <a href="https://github.com/Brutal-45">
+    <img src="https://img.shields.io/github/stars/Brutal-45?style=for-the-badge&logo=starship&logoColor=white&labelColor=0D1117&color=F7DC6F&label=Stars" alt="Stars">
   </a>
-  <a href="https://github.com/brutal-45">
-    <img src="https://img.shields.io/github/forks/brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=4ECDC4&label=Forks" alt="Forks">
+  <a href="https://github.com/Brutal-45">
+    <img src="https://img.shields.io/github/forks/Brutal-45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=4ECDC4&label=Forks" alt="Forks">
   </a>
-  <a href="https://github.com/brutal-45">
-    <img src="https://komarev.com/ghpvc/?username=brutal-45&style=for-the-badge&color=9FACE6&labelColor=0D1117&label=Profile+Views" alt="Profile Views">
+  <a href="https://github.com/Brutal-45">
+    <img src="https://komarev.com/ghpvc/?username=Brutal-45&style=for-the-badge&color=9FACE6&labelColor=0D1117&label=Profile+Views" alt="Profile Views">
   </a>
 </p>
 
 <!-- 🏆 Trophy Case -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" width="100%" alt="">
+    <img src="https://github-profile-trophy.vercel.app/?username=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" width="100%" alt="Trophy">
   </a>
 </p>
 
 <!-- 📊 GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&ring_color=F781BE" height="195" alt=""> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&icon_color=F7DC6F&ring_color=F7DC6F" height="195" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&ring_color=F781BE" height="195" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&icon_color=F7DC6F&ring_color=F7DC6F" height="195" alt="Top Languages">
 </p>
 
 ---
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=300&color=4ECDC4&center=true&vCenter=true&repeat=true&width=650&lines=🔭+Currently+working+on%3A+Awesome+Web+Projects;🌱+Currently+learning%3A+AI%2FML+%26+Cloud+Architecture;👯+Looking+to+collaborate+on%3A+Open+Source+Projects;💬+Ask+me+about%3A+Web+Development%2C+DevOps%2C+APIs;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud!" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=300&color=4ECDC4&center=true&vCenter=true&repeat=true&width=650&lines=🔭+Currently+working+on%3A+Awesome+Web+Projects;🌱+Currently+learning%3A+AI%2FML+%26+Cloud+Architecture;👯+Looking+to+collaborate+on%3A+Open+Source+Projects;💬+Ask+me+about%3A+Web+Development%2C+DevOps%2C+APIs;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud!" alt="Status Typing">
 </p>
 
 ---
@@ -111,7 +111,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 ### 💻 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brutal-45&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=F781BE" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brutal-45&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=F781BE" alt="WakaTime">
 </p>
 
 </td>
@@ -126,7 +126,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💻%20Languages%20%7C%20🎨%20Frontend%20%7C%20⚙️%20Backend%20%7C%20☁️%20Cloud" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=300&color=F781BE&center=true&vCenter=true&repeat=true&width=500&lines=💻%20Languages%20%7C%20🎨%20Frontend%20%7C%20⚙️%20Backend%20%7C%20☁️%20Cloud" alt="Tech Categories">
 </p>
 
 <table>
@@ -200,9 +200,8 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 <!-- 📈 Main Stats -->
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=tokyonight&hide_border=false&border_radius=16&include_all_commits=true&count_private=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117&ring_color=F781BE" alt="">
- 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&border_radius=16&title_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" alt="">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Brutal-45&show_icons=true&theme=tokyonight&hide_border=false&border_radius=16&include_all_commits=true&count_private=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117&ring_color=F781BE" alt="GitHub Stats">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brutal-45&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&border_radius=16&title_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages">
 </p>
 
 <!-- 🔥 Streak Stats -->
@@ -217,8 +216,8 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 <!-- 📊 Contribution Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brutal-45&theme=tokyonight" alt="">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brutal-45&theme=tokyonight" alt="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brutal-45&theme=tokyonight" alt="Stats Card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brutal-45&theme=tokyonight" alt="Productive Time">
 </p>
 
 ---
@@ -253,7 +252,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?user=brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="">
+  <img src="https://github-profile-achievements.vercel.app/api?user=Brutal-45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=8&column=7" alt="Achievements">
 </p>
 
 <!-- 🎖️ Fun Badges Row 1 -->
@@ -335,7 +334,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=4ECDC4&center=true&vCenter=true&repeat=true&width=600&lines=🌟+I'm+always+open+to+interesting+conversations!;🤝+Let's+collaborate+and+build+something+amazing!;💡+Feel+free+to+reach+out+anytime!;📧+Email+me+at%3A+creatorsports81@gmail.com" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=4ECDC4&center=true&vCenter=true&repeat=true&width=600&lines=🌟+I'm+always+open+to+interesting+conversations!;🤝+Let's+collaborate+and+build+something+amazing!;💡+Feel+free+to+reach+out+anytime!;📧+Email+me+at%3A+creatorsports81@gmail.com" alt="Connect Typing">
 </p>
 
 <!-- 🌐 Social Links Row 1 -->
@@ -369,7 +368,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=F781BE&center=true&vCenter=true&repeat=true&width=550&lines=💖+If+you+like+my+work%2C+consider+supporting!;⭐+Don't+forget+to+star+my+repositories!;☕+Buy+me+a+coffee+and+fuel+my+coding!;🙏+Thank+you+for+your+support!" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1800&pause=400&color=F781BE&center=true&vCenter=true&repeat=true&width=550&lines=💖+If+you+like+my+work%2C+consider+supporting!;⭐+Don't+forget+to+star+my+repositories!;☕+Buy+me+a+coffee+and+fuel+my+coding!;🙏+Thank+you+for+your+support!" alt="Support Typing">
 </p>
 
 <p align="center">
@@ -393,7 +392,7 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 
 <!-- ⌨️ Footer Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=300&color=F7DC6F&center=true&vCenter=true&repeat=true&width=550&lines=⭐+Star+my+repos!;🔄+Fork+and+contribute!;💬+Let's+collaborate!;🎯+Happy+Coding!;✨+See+you+soon!" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1500&pause=300&color=F7DC6F&center=true&vCenter=true&repeat=true&width=550&lines=⭐+Star+my+repos!;🔄+Fork+and+contribute!;💬+Let's+collaborate!;🎯+Happy+Coding!;✨+See+you+soon!" alt="Footer Typing">
 </p>
 
 <!-- 📊 Visitor Counter -->
@@ -406,4 +405,3 @@ I'm **Brutal-45**, a passionate **Full Stack Developer** who loves building amaz
 </p>
 
 -----
-
