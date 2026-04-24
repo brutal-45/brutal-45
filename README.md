@@ -281,7 +281,7 @@ graph LR
 
 </div>
 
-> ⚙️ *Replace `REPO_NAME` with your actual repository names to showcase your best projects.*
+> ⚙️ *Replace `Calculator` with your actual repository names to showcase your best projects.*
 
 ---
 
