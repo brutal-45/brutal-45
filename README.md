@@ -72,11 +72,11 @@ I'm **brutal-45** — a passionate full-stack developer who builds elegant, high
 
 #### Contribution Calendar
 <p align="center">
-  <img src="https://ghchart.rshah.org/brutal-45?theme=dark" width="100%" />
+  <img src="https://ghchart.rshah.org/brutal-45?theme=dark" width="100%"/>
 </p>
 
 #### Contribution Snake
-<img src="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-snake-dark.svg" width="100%"/>
 
 ---
 
