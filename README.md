@@ -277,7 +277,7 @@ graph LR
 <div align="center">
 
 [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=Calculator&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
-[![Python-Learning-Course](https://github-readme-stats.vercel.app/api/pin/?username=Python-Learning-Course&repo=Brutal-ai&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![brutal-image](https://github-readme-stats.vercel.app/api/pin/?username=brutal-image&repo=Brutal-ai&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
 
 </div>
 
