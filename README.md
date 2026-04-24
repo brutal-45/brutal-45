@@ -23,7 +23,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+brutal-45;💡+I+turn+coffee+into+code;🚀+Building+the+future%2C+one+commit+at+a+time;🔥+Open+Source+Advocate+%26+Lifelong+Learner;💻+Code.+Create.+Conquer." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+brutal-45;💡+I+turn+coffee+into+code;🚀+Building+the+future%2C+one+commit+at+a+time;🔥+Open+Source+Advocate+%26+Lifelong+Learner;💻+Code.+Create.+Conquer." alt="" />
 
 </div>
 
@@ -227,8 +227,8 @@
     ┌──────────────────────────────────────────┐
     │                                          │
     │   $ git push --force                     │
-    │   > 😱 Wait... did I just...?            │
-    │   > 💀 RIP production server             │
+    │   > 😱 Wait... did I just...?           │
+    │   > 💀 RIP production server            │
     │   > 🏃‍♂️ *runs away*                      │
     │                                          │
     │   $ git log --oneline                    │
