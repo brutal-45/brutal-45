@@ -38,8 +38,8 @@
  ┌─────────────────────────────────────────────────┐
  │  USER      :  brutal-45                         │
  │  ROLE      :  Full-Stack Developer              │
- │  STATUS    :  🟢 Available for collaboration    │
- │  LOCATION  :  🌍 Planet Earth                   │
+ │  STATUS    :  🟢 Available for collaboration   |
+ │  LOCATION  :  🌍 Planet Earth                  │
  │  EMAIL     :  creatorsports81@gmail.com         │
  │  MOTTO     :  "Code hard, stay humble."         │
  └─────────────────────────────────────────────────┘
