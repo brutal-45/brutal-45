@@ -276,12 +276,12 @@ graph LR
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
 
 </div>
 
-> ⚙️ *Replace `Calculator` with your actual repository names to showcase your best projects.*
+> 
 
 ---
 
