@@ -302,7 +302,7 @@ graph LR
 <!-- VISITOR BADGE -->
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=brutal-45&icon=0&color=7c3aed" alt="Visitors" />
+<img src="https://visitcount.itsvg.in/api?id=brutal-45&icon=0&color=7c3aed" alt="" />
 
 </div>
 
