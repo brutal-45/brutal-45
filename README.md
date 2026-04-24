@@ -1,119 +1,127 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6b35&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+brutal-45;Full+Stack+Developer+%7C+Open+Source+Lover;Building+the+future%2C+one+commit+at+a+time;Let's+build+something+epic+together&size=22" alt="Typing SVG" />
+# 👋 Hey there, I'm **brutal-45**
 
-<p>
-  <a href="https://github.com/brutal-45"><img src="https://img.shields.io/badge/GitHub-brutal--45-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" /></a>
-  <a href="mailto:creatorsports81@gmail.com"><img src="https://img.shields.io/badge/Email-creatorsports81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://github.com/brutal-45?tab=followers"><img src="https://img.shields.io/github/followers/brutal-45?style=for-the-badge&logo=github&label=Followers&color=58a6ff&labelColor=161b22" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-238636?style=for-the-badge&logo=handshake&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Code-Time-Night%20Owl-79C0FF?style=for-the-badge&logo=moon&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Coffee-Addicted-ffa657?style=for-the-badge&logo=coffee&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=161b22" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Open+Source+Enthusiast;Code+%7C+Create+%7C+Contribute" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,45&height=100&section=footer" width="100%" />
+---
+
+<img src="https://komarev.com/ghpvc/?username=brutal-45&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **brutal-45** — a passionate full-stack developer who builds elegant, high-performance applications. I believe in clean architecture, open-source collaboration, and pushing the boundaries of what's possible through technology. From pixel-perfect UIs to scalable backend systems, I love working across the entire stack.
+```yaml
+name: brutal-45
+location: 🌍 Earth
+current_focus: Building cool stuff & learning every day
+interests:
+  - 💻 Software Development
+  - 🚀 Open Source
+  - 🧠 Problem Solving
+  - 🎮 Tech & Gaming
+hobbies: Coding, Exploring New Tech, Coffee ☕
+motto: "Code hard, stay humble."
+```
 
-- 🔭 Currently building **scalable web applications**
-- 🌱 Deep diving into **Rust**, **Go**, and **WebAssembly**
-- 💬 Ask me about **system design, web dev, and open source**
-- 📫 Reach me at **[creatorsports81@gmail.com](mailto:creatorsports81@gmail.com)**
-- 🚀 Contributing to **open source** every single day
-- ⚡ Fun fact: **Vim + Terminal = Life**
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rs,bash,sql&theme=dark" /></p>
-
-#### Frontend
-<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,sass,threejs,redux&theme=dark" /></p>
-
-#### Backend & Cloud
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,kubernetes,postgres,mongodb,redis,firebase&theme=dark" /></p>
-
-#### Dev Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,vercel,figma,postman,jest&theme=dark" /></p>
+- 🔭 I'm currently working on **exciting projects**
+- 🌱 I'm currently learning **new technologies & frameworks**
+- 💬 Ask me about **anything tech-related**
+- ⚡ Fun fact: **I debug with `console.log` and I'm proud of it 😄**
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9D1D9&icon_color=ff6b35&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9D1D9&text_color=C9D1D9&langs_count=10" height="180" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=ff6b35&fire=ff6b35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=ff6b35&sideNums=C9D1D9&dates=484f58" />
-</p>
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brutal-45&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9D1D9&text_color=C9D1D9&icons_color=ff6b35&range=all_time&layout=compact" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brutal-45&bg_color=0d1117&color=ff6b35&line=ff3366&point=79c0ff&area=true&hide_border=true&radius=4" width="100%" />
-</p>
-
-#### Contribution Calendar
-<p align="center">
-  <img src="https://ghchart.rshah.org/brutal-45?theme=dark" width="100%"/>
-</p>
-
-#### Contribution Snake
-<img src="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-snake-dark.svg" width="100%"/>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🏆 Achievements
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
-### 💬 Quote
+## 🏆 GitHub Trophies
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=onestar&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
-  <a href="mailto:creatorsports81@gmail.com"><img src="https://img.shields.io/badge/Gmail-creatorsports81%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://github.com/brutal-45"><img src="https://img.shields.io/badge/GitHub-brutal--45-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://github.com/sponsors/brutal-45"><img src="https://img.shields.io/badge/Support-Sponsor-ff6b35?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=161b22" /></a>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/brutal-45/brutal-45/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+> 💡 *To enable the contribution snake animation, create a GitHub Action workflow that generates the snake SVG. Check out [this guide](https://github.com/Platane/snk) for setup.*
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-creatorsports81%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creatorsports81@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-brutal--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brutal-45)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,45&height=120&section=footer" width="100%" />
+### 💡 "First, solve the problem. Then, write the code."
 
-<img src="https://komarev.com/ghpvc/?username=brutal-45&color=ff6b35&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20and%20Code-ff6b35?style=flat-square&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Powered%20By-Next.js%20%7C%20Tailwind-79C0FF?style=flat-square&labelColor=161b22&color=21262d" />
-<img src="https://img.shields.io/badge/Built%20With-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=161b22" />
-
-<br /><br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" alt="Footer Wave" />
 
 </div>
