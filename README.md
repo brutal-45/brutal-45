@@ -163,7 +163,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="" />
 
 </div>
 
