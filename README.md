@@ -34,7 +34,7 @@
 
 ```
 > scanning user profile... ✓
-##
+ 
  ┌──────────────────────────────────────────────────┐
  │  USER      :  brutal-45                          │
  │  ROLE      :  Full-Stack Developer               │
