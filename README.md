@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:e11d48,50:7c3aed,100:0ea5e9&fontColor=fff&text=brutal-45&fontSize=70&fontAlignY=45&desc=Passionate+Developer+%7C+Open+Source+Enthusiast+%7C+Code+Creator&descSize=18&descAlignY=65&animation=fadeIn" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:e11d48,50:7c3aed,100:0ea5e9&fontColor=fff&text=brutal-45&fontSize=70&fontAlignY=45&desc=Passionate+Developer+%7C+Open+Source+Enthusiast+%7C+Code+Creator&descSize=18&descAlignY=65&animation=fadeIn" alt="Header Banner" /> 
 
 <a href="mailto:creatorsports81@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-creatorsports81@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
