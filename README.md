@@ -311,7 +311,7 @@ graph LR
 <!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="Footer" /> 
 
 **Made with ❤️ & ☕ by brutal-45**
 
