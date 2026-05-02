@@ -142,7 +142,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" alt="" />
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=radical&hide_border=true&ring=7c3aed&fire=e11d48&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=555555&background=0D1117" alt="GitHub Streak" />
 
