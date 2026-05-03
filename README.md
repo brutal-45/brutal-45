@@ -136,7 +136,18 @@
 </div>
 
 ---
+<div align="center">
 
+  <h2>
+    🖥️ Github Activity
+    <img
+      height="40"
+      alt="Mwaki Denis"
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+    />
+  </h2>
+
+  
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
