@@ -149,7 +149,7 @@
   </h2>
   
  <p align="left">
-  <img src="https://github.com/mwakidenis/mwakidenis/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github.com/mwakidenis/brutal-45/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
   
