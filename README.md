@@ -60,18 +60,18 @@
 brutal-45@github:~$ whoami
 
 ╭─────────────────────────────────────────────────────────────────╮
-│                                                                 │
-│   🧑‍💻  USER       :  brutal-45                                  │
-│   🎭  ROLE       :  Full-Stack Developer & Creator              │
-│   📍  LOCATION   :  🌍 Earth                                    │
-│   📧  EMAIL      :  creatorsports81@gmail.com                   │
-│   💼  STATUS     :  🟢 Open to Collaboration                    │
-│   🎓  LEARNING   :  Always                                      │
-│   ☕  FUEL       :  Coffee & Curiosity                           │
-│   🎯  GOAL       :  Make a dent in the universe                 │
-│                                                                 │
-│   💬  MOTTO      :  "Code hard, stay humble, ship fast."        │
-│                                                                 │
+│                                                                 |
+│   🧑‍💻  USER       :  brutal-45                                   |
+│   🎭  ROLE       :  Full-Stack Developer & Creator              |
+│   📍  LOCATION   :  🌍 Earth                                   |
+│   📧  EMAIL      :  creatorsports81@gmail.com                   |
+│   💼  STATUS     :  🟢 Open to Collaboration                   |
+│   🎓  LEARNING   :  Always                                      |  
+│   ☕  FUEL       :  Coffee & Curiosity                          |   
+│   🎯  GOAL       :  Make a dent in the universe                 |    
+│                                                                  |      
+│   💬  MOTTO      :  "Code hard, stay humble, ship fast."        |  
+│                                                                 |    
 ╰─────────────────────────────────────────────────────────────────╯
 ```
 
@@ -110,7 +110,7 @@ brutal-45@github:~$ whoami
 ## <img src="https://media2.giphy.com/media/QssGE5kyiBKoqsAT0w/giphy.gif" width="30"> &nbsp;Tech Arsenal
 
 <!-- Languages -->
-### <img src="https://img.shields.io/badge/-Languages-7c3aed?style=flat-square" alt="Languages" />
+### <img src="https://img.shields.io/badge/-Languages-7c3aed?style=flat-square" alt="" />
 
 <div align="center">
 
@@ -311,14 +311,14 @@ jobs:
 
 <div align="center">
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_1&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_2&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_3&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
-[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_4&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=Calculator&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![Brutal-mod](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=Brutal-mod&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![brutal-image](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=brutal-image&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![brutal-ai](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=brutal-ai&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
 
 </div>
 
-> ⚙️ **Replace `REPO_1` → `REPO_4` with your actual repository names to showcase your best work!**
+
 
 ---
 
