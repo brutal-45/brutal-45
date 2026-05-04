@@ -311,9 +311,8 @@ jobs:
 
 <div align="center">
 
-
-
 [![brutal-image](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=brutal-image&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+
 
 
 </div>
