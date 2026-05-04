@@ -1,69 +1,104 @@
-<!-- ============================================
-     🌟 GITHUB PROFILE README — brutal-45 🌟
-     Premium Edition | Dark Aesthetic 
-     ============================================ --> 
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗ █████╗ ██████╗  ║
+║   ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗ ║
+║   ██████╔╝██║   ██║██████╔╝██████╔╝█████╗  ███████║██║  ██║ ║
+║   ██╔══██╗██║   ██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██║██║  ██║ ║
+║   ██████╔╝╚██████╔╝██║     ██║     ███████╗██║  ██║██████╔╝ ║
+║   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝  ║
+║                                                              ║
+║          P R O F I L E   R E A D M E                         ║
+║          ✦ Ultra Premium Edition ✦                           ║
+║          @brutal-45 | creatorsports81@gmail.com              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
+<!-- ==================== HERO BANNER ==================== -->
 <br/>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:e11d48,50:7c3aed,100:0ea5e9&fontColor=fff&text=brutal-45&fontSize=70&fontAlignY=45&desc=Passionate+Developer+%7C+Open+Source+Enthusiast+%7C+Code+Creator&descSize=18&descAlignY=65&animation=fadeIn" alt="Header Banner" /> 
-
-<a href="mailto:creatorsports81@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-creatorsports81@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-</a>
-<a href="https://github.com/brutal-45?tab=followers">
-  <img src="https://img.shields.io/github/followers/brutal-45?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7c3aed" alt="Followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=brutal-45&style=for-the-badge&color=0ea5e9&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&customColorList=12,15,19,24,30&text=brutal%2D45&fontColor=fff&fontSize=80&fontAlignY=44&desc=Developer%20%F0%9F%92%BB%20%7C%20Creator%20%F0%9F%8E%A8%20%7C%20Contributor%20%F0%9F%A4%9D&descSize=20&descAlignY=64&animation=blender&stroke=7c3aed" alt="Hero Banner" />
 
 </div>
 
----
-
-<!-- TYPING ANIMATION -->
+<!-- ==================== STATUS BADGES ==================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+brutal-45;💡+I+turn+coffee+into+code;🚀+Building+the+future%2C+one+commit+at+a+time;🔥+Open+Source+Advocate+%26+Lifelong+Learner;💻+Code.+Create.+Conquer." alt="" />
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-creatorsports81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:creatorsports81@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/brutal-45?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7c3aed)](https://github.com/brutal-45?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=brutal-45&style=for-the-badge&color=0ea5e9&label=%F0%9F%91%81%EF%B8%8F+VIEWS)](https://github.com/brutal-45)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Collaboration-22c55e?style=for-the-badge)](https://github.com/brutal-45)
+
+</div>
+
+<br/>
+
+<!-- ==================== TYPING ANIMATION ==================== -->
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%91%8B+Hey+there%2C+I'm+brutal-45!;%F0%9F%92%A1+Turning+ideas+into+reality+through+code;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Open+Source+Advocate+%26+Lifelong+Learner;%F0%9F%8E%AF+Clean+Code+%7C+Great+Design+%7C+Ship+Fast;%E2%98%95+Powered+by+Coffee+%26+Curiosity" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-<!-- ABOUT ME — TERMINAL STYLE -->
-## 🧑‍💻 `$ whoami`
+<!-- ==================== ABOUT ME ==================== -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> &nbsp;About Me
 
-```
-> scanning user profile... ✓
- 
- ┌──────────────────────────────────────────────────┐
- │  USER      :  brutal-45                          │
- │  ROLE      :  Full-Stack Developer               │
- │  STATUS    :  🟢 Available for collaboration     │     
- │  LOCATION  :  🌍 Planet Earth                    │ 
- │  EMAIL     :  creatorsports81@gmail.com          │ 
- │  MOTTO     :  "Code hard, stay humble."          │
- └──────────────────────────────────────────────────┘
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brutal-45&theme=tokyonight" alt="Summary Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brutal-45&theme=tokyonight" alt="Repos per Language" width="49%" />
+
+</div>
+
+```terminal
+brutal-45@github:~$ whoami
+
+╭─────────────────────────────────────────────────────────────────╮
+│                                                                 │
+│   🧑‍💻  USER       :  brutal-45                                  │
+│   🎭  ROLE       :  Full-Stack Developer & Creator              │
+│   📍  LOCATION   :  🌍 Earth                                    │
+│   📧  EMAIL      :  creatorsports81@gmail.com                   │
+│   💼  STATUS     :  🟢 Open to Collaboration                    │
+│   🎓  LEARNING   :  Always                                      │
+│   ☕  FUEL       :  Coffee & Curiosity                           │
+│   🎯  GOAL       :  Make a dent in the universe                 │
+│                                                                 │
+│   💬  MOTTO      :  "Code hard, stay humble, ship fast."        │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
 ```
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-### 🌱 Currently
-- 🔭 Working on **exciting projects**
-- 🌱 Learning **new frameworks & tools**
-- 🤝 Open to **collaboration**
-- 🎯 Goal: **1,000+ contributions**
+### 🌱 What I'm Up To
+- 🔭 Currently **building exciting projects**
+- 🌱 Always **learning new technologies**
+- 🤝 Open to **open source collaboration**
+- 🎯 Aiming for **1,000+ contributions**
+- ✍️ Sharing **knowledge & code**
+- 🏗️ Dreaming in **code & design**
 
 </td>
-<td>
+<td width="50%">
 
-### ⚡ Quick Facts
-- 🐛 I squash bugs for breakfast
-- ☕ Fuel: Coffee & Curiosity
-- 🎮 Debug mode: `console.log` gang
-- 🧠 Always in `learning mode`
-- 🏗️ I refactor at 3 AM
+### ⚡ Developer Facts
+- 🐛 I squash bugs before breakfast
+- 🔄 Refactor at 3 AM, deploy at dawn
+- ☕ My blood type is `TypeScript`
+- 🎮 Debug mode: `console.log` veteran
+- 🧠 Always running in `learning mode`
+- 🐧 Linux is my daily driver
+- ⌨️ Mechanical keyboard enthusiast
+- 🌙 Dark mode is the only mode
 
 </td>
 </tr>
@@ -71,105 +106,154 @@
 
 ---
 
-<!-- TECH STACK -->
-## ⚙️ Tech Arsenal
+<!-- ==================== TECH STACK ==================== -->
+## <img src="https://media2.giphy.com/media/QssGE5kyiBKoqsAT0w/giphy.gif" width="30"> &nbsp;Tech Arsenal
 
-### 🖥️ Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=000000" alt="Rust" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1" alt="SQL" />
-</p>
-
-### 🧩 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=000000" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=092E20" alt="Django" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=000000" alt="Three.js" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white&labelColor=CB3837" alt="NPM" />
-</p>
-
----
-
-<!-- SKILL BARS -->
-## 📈 Skill Proficiency
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e)
-![Node.js](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-70%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-60%25-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e)
-![AWS](https://img.shields.io/badge/AWS-55%25-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e)
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+<!-- Languages -->
+### <img src="https://img.shields.io/badge/-Languages-7c3aed?style=flat-square" alt="Languages" />
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" alt="" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=radical&hide_border=true&ring=7c3aed&fire=e11d48&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=555555&background=0D1117" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 </div>
 
+<!-- Frameworks -->
+### <img src="https://img.shields.io/badge/-Frameworks-0ea5e9?style=flat-square" alt="Frameworks" />
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
 
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=brutal-45&bg_color=0d1117&color=7c3aed&line=0ea5e9&point=e11d48&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!-- Databases -->
+### <img src="https://img.shields.io/badge/-Databases-22c55e?style=flat-square" alt="Databases" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+</div>
+
+<!-- Cloud & DevOps -->
+### <img src="https://img.shields.io/badge/-Cloud_%26_DevOps-e11d48?style=flat-square" alt="Cloud & DevOps" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+<!-- Tools -->
+### <img src="https://img.shields.io/badge/-Tools-f59e0b?style=flat-square" alt="Tools" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 Achievements & Trophies
+<!-- ==================== SKILL PROFICIENCY ==================== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Skill Proficiency
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="" />
+| Category | Skills |
+|:--------:|:------:|
+| ![Frontend](https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square) | `████████████████████░░` React, Next.js, Vue, Tailwind |
+| ![Backend](https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square) | `█████████████████████░░` Node.js, Python, FastAPI |
+| ![Database](https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square) | `████████████████████░░░░` MongoDB, PostgreSQL, Redis |
+| ![DevOps](https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square) | `██████████████████░░░░░░` Docker, AWS, CI/CD |
+| ![Mobile](https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square) | `████████████████░░░░░░░░` React Native |
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- ==================== GITHUB STATS ==================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCER1v/giphy.gif" width="35"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed" alt="Stats" />
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=radical&hide_border=true&ring=7c3aed&fire=e11d48&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=555555&background=0D1117" alt="Streak" />
+
+</div>
+
+<div align="center">
+
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Top Languages" />
+<img height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=brutal-45&bg_color=0d1117&color=7c3aed&line=0ea5e9&point=e11d48&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<!-- Summary Cards -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brutal-45&theme=tokyonight" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brutal-45&theme=tokyonight" alt="Productive Time" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brutal-45&theme=tokyonight" alt="Profile Details" width="32%" />
+
+</div>
+
+---
+
+<!-- ==================== TROPHIES ==================== -->
+## <img src="https://media.giphy.com/media/Qu1QTGacpMss0tkXwO/giphy.gif" width="35"> &nbsp;Trophies & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brutal-45&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+
+</div>
+
+---
+
+<!-- ==================== SNAKE ==================== -->
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -182,33 +266,127 @@
 
 </div>
 
-> 💡 *Enable the snake animation by setting up [this GitHub Action](https://github.com/Platane/snk) workflow in your profile repo.*
+<details>
+<summary>📌 <b>Click here to learn how to enable the Snake Animation</b></summary>
+
+<br/>
+
+Create a file at `.github/workflows/snake.yml` in your `brutal-45` profile repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Game from GitHub Contribution Graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: brutal-45
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
-<!-- CODING PHILOSOPHY -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> &nbsp;Featured Projects
+
+<div align="center">
+
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_1&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_2&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_3&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=REPO_4&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
+
+</div>
+
+> ⚙️ **Replace `REPO_1` → `REPO_4` with your actual repository names to showcase your best work!**
+
+---
+
+<!-- ==================== WORKFLOW ==================== -->
+## 🔄 My Development Lifecycle
+
+<div align="center">
+
+```mermaid
+graph TB
+    A["💡 Idea"] --> B["📝 Research & Plan"]
+    B --> C["🎨 Design"]
+    C --> D["🔧 Develop"]
+    D --> E["🧪 Test"]
+    E --> F{"✅ Works?"}
+    F -->|"Yes"| G["🚀 Deploy"]
+    F -->|"No"| H["🐛 Debug"]
+    H --> D
+    G --> I["📊 Monitor"]
+    I --> J{"📈 Needs Improvement?"}
+    J -->|"Yes"| K["🔄 Iterate"]
+    K --> D
+    J -->|"No"| L["☕ Coffee Break!"]
+    L --> A
+
+    style A fill:#7c3aed,stroke:#7c3aed,color:#fff
+    style G fill:#22c55e,stroke:#22c55e,color:#fff
+    style H fill:#e11d48,stroke:#e11d48,color:#fff
+    style L fill:#f59e0b,stroke:#f59e0b,color:#000
+```
+
+</div>
+
+---
+
+<!-- ==================== PHILOSOPHY ==================== -->
 ## 🧠 Coding Philosophy
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center" bgcolor="0d1117">
 
 ### 🎯 Clean Code
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> *"Any fool can write code that a computer can understand. Good programmers write code that **humans** can understand."*
+> — Martin Fowler
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center" bgcolor="0d1117">
 
 ### 🔄 Keep Learning
-> "The only way to learn a new programming language is by writing programs in it."
+> *"The only way to learn a new programming language is by **writing programs** in it."*
+> — Dennis Ritchie
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center" bgcolor="0d1117">
 
 ### 🤝 Open Source
-> "Open source is not just about code, it's about community and collaboration."
+> *"Open source is not just about code — it's about **community** and **collaboration**."*
+> — Linus Torvalds
+
+</td>
+<td width="25%" align="center" bgcolor="0d1117">
+
+### 🚀 Ship Fast
+> *"Move fast and break things. Unless you are breaking stuff, **you are not moving fast enough**."*
+> — Mark Zuckerberg
 
 </td>
 </tr>
@@ -218,101 +396,89 @@
 
 ---
 
-<!-- FUN SECTION -->
-## 🎮 Dev Fun
+<!-- ==================== FUN ZONE ==================== -->
+## 🎮 Dev Fun Zone
 
 <div align="center">
 
 ```
-    ┌──────────────────────────────────────────┐
-    │                                          │
-    │   $ git push --force                     │
-    │   > 😱 Wait... did I just...?           │
-    │   > 💀 RIP production server            │
-    │   > 🏃‍♂️ *runs away*                      │
-    │                                          │
-    │   $ git log --oneline                    │
-    │   > fix bug                              │
-    │   > fix bug again                        │
-    │   > fix bug for real this time           │
-    │   > FINAL bug fix                        │
-    │   > please just work                     │
-    │                                          │
-    └──────────────────────────────────────────┘
+ ╔═══════════════════════════════════════════════════════════════╗
+ ║                                                               ║
+ ║   $ git push --force                                          ║
+ ║   > 😱 Wait... did I just...?                                 ║
+ ║   > 💀 RIP production server                                  ║
+ ║   > 🏃‍♂️ *deletes LinkedIn* *updates resume*                   ║
+ ║                                                               ║
+ ║   $ git log --oneline                                         ║
+ ║   > fix bug                                                   ║
+ ║   > fix bug again                                             ║
+ ║   > fix bug for real this time                                ║
+ ║   > FINAL bug fix                                             ║
+ ║   > please just work                                          ║
+ ║   > I give up                                                 ║
+ ║   > actually fixed it (maybe)                                 ║
+ ║                                                               ║
+ ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&textColor=c9d1d9&borderColor=7c3aed&qcColor=0ea5e9&hideBorder=true" alt="Dev Joke" />
 
-</div>
+<br/>
 
----
-
-<!-- WORKFLOW VISUALIZATION -->
-## 🔄 My Dev Workflow
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[💡 Idea] --> B[📝 Plan]
-    B --> C[🔧 Code]
-    C --> D[🧪 Test]
-    D --> E{Works?}
-    E -->|Yes| F[🚀 Deploy]
-    E -->|No| G[🐛 Debug]
-    G --> C
-    F --> H[☕ Coffee Break]
-    H --> A
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
 ---
 
-<!-- Pinned Repos Placeholder -->
-## 📌 Featured Projects
-
-> 🔥 *Star ⭐ my repos if you find them useful! Check out my pinned repositories below.*
+<!-- ==================== CONTRIBUTING ==================== -->
+## 🤝 How to Support Me
 
 <div align="center">
 
-[![Brutal-mod](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=Brutal-mod&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45) 
-[![brutal-image](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=brutal-image&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45)
-
-</div>
-
-> 
-
----
-
-<!-- CONNECT -->
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-creatorsports81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:creatorsports81@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_Me-brutal--45-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/brutal-45)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/)
+[![Star My Repos](https://img.shields.io/badge/⭐_Star_My-Repos-7c3aed?style=for-the-badge)](https://github.com/brutal-45?tab=repositories)
+[![Follow Me](https://img.shields.io/badge/👥_Follow-Me-0ea5e9?style=for-the-badge)](https://github.com/brutal-45)
+[![Fork My Projects](https://img.shields.io/badge/🍴_Fork_My-Projects-22c55e?style=for-the-badge)](https://github.com/brutal-45?tab=repositories)
+[![Report Issues](https://img.shields.io/badge/🐛_Report-Issues-e11d48?style=for-the-badge)](https://github.com/brutal-45)
 
 </div>
 
 ---
 
-<!-- VISITOR BADGE -->
+<!-- ==================== CONNECT ==================== -->
+## 🌐 Let's Connect
+
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=brutal-45&icon=0&color=7c3aed" alt="" />
+[![Email](https://img.shields.io/badge/Email-creatorsports81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creatorsports81@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-brutal--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brutal-45)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Twitter / X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/)
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+<!-- ==================== VISITOR MAP ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" alt="Footer" /> 
+<img src="https://visitcount.itsvg.in/api?id=brutal-45&icon=5&color=7c3aed" alt="Visitors" />
 
-**Made with ❤️ & ☕ by brutal-45**
+</div>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontColor=fff&fontSize=22&fontAlignY=75" alt="Footer" />
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-7c3aed?style=flat-square" alt="Made with love" />
+  <img src="https://img.shields.io/badge/by-brutal--45-0ea5e9?style=flat-square" alt="by brutal-45" />
+  <img src="https://img.shields.io/badge/2026-All%20Rights%20Reserved-22c55e?style=flat-square" alt="2026" />
+</p>
 
 </div>
