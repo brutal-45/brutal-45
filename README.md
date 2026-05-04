@@ -219,14 +219,14 @@ brutal-45@github:~$ whoami
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed" alt="Stats" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed" alt="" />
 <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=radical&hide_border=true&ring=7c3aed&fire=e11d48&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=555555&background=0D1117" alt="Streak" />
 
 </div>
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Top Languages" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="" />
 <img height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=brutal-45&bg_color=0d1117&color=7c3aed&line=0ea5e9&point=e11d48&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
@@ -464,7 +464,7 @@ graph TB
 <!-- ==================== VISITOR MAP ==================== -->
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=brutal-45&icon=5&color=7c3aed" alt="Visitors" />
+<img src="https://visitcount.itsvg.in/api?id=brutal-45&icon=5&color=7c3aed" alt="" />
 
 </div>
 
