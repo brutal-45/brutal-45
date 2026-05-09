@@ -309,6 +309,7 @@ jobs:
 
 <div align="center">
 
+[![Nexus-LLM](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=Nexus-LLM&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45/Nexus-LLM)
 [![brutal-image](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=brutal-image&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45/brutal-image)
 [![Brutal-mod](https://github-readme-stats.vercel.app/api/pin/?username=brutal-45&repo=Brutal-mod&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45/Brutal-mod)
 
