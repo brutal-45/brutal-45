@@ -24,7 +24,7 @@
 </div>
 
 <!-- ==================== STATUS BADGES ==================== -->
-<div align="center">
+<div align="center"> 
 
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-creatorsports81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:creatorsports81@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/brutal-45?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7c3aed)](https://github.com/brutal-45?tab=followers)
