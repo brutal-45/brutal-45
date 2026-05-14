@@ -8,8 +8,8 @@
 ║   ██████╔╝╚██████╔╝██║     ██║     ███████╗██║  ██║██████╔╝  ║
 ║   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝   ║
 ║                                                              ║
-║          P R O F I L E   R E A D M E                         ║
-║          ✦ Ultra Premium Edition ✦                          ║
+║               P R O F I L E   R E A D M E                    ║
+║               ✦ Ultra Premium Edition ✦                     ║
 ║          @brutal-45 | creatorsports81@gmail.com              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
