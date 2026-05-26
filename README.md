@@ -83,7 +83,7 @@ brutal-45@github:~$ whoami
 - 🔭 Currently **building exciting projects**
 - 🌱 Always **learning new technologies**
 - 🤝 Open to **open source collaboration**
-- 🎯 Aiming for **2,000+ contributions**
+- 🎯 Aiming for **2,500+ contributions**
 - ✍️ Sharing **knowledge & code**
 - 🏗️ Dreaming in **code & design**
 
