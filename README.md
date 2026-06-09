@@ -87,32 +87,20 @@
 brutal-45@github:~$ whoami
 
 ╭─────────────────────────────────────────────────────────────────╮
-
 │                                                                 |
-
 │   🧑‍💻  USER       :  brutal-45                                   |
-
 │   🎭  ROLE       :  Full-Stack Developer & Creator              |
-
 │   📍  LOCATION   :  🌍 Earth                                   |
-
-│   📧  EMAIL      :  [creatorsports81@gmail.com](mailto:creatorsports81@gmail.com)                   |
-
+│   📧  EMAIL      :  creatorsports81@gmail.com                   |
 │   💼  STATUS     :  🟢 Open to Collaboration                   |
-
 │   🎓  LEARNING   :  Always                                      |  
-
 │   ☕  FUEL       :  Coffee & Curiosity                          |   
-
 │   🎯  GOAL       :  Make a dent in the universe                 |    
-
 │                                                                  |      
-
 │   💬  MOTTO      :  "Code hard, stay humble, ship fast."        |  
-
 │                                                                 |    
-
 ╰─────────────────────────────────────────────────────────────────╯  
+```
 
 ```
 
