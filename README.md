@@ -302,15 +302,15 @@ brutal-45@github:~$ whoami
 
 |:--------:|:------:|
 
-| ![Frontend]([https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square](https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square)) | `████████████████████░░` React, Next.js, Vue, Tailwind |
+| [Frontend]([https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square](https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square)) | `████████████████████░░` React, Next.js, Vue, Tailwind |
 
-| ![Backend]([https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square](https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square)) | `█████████████████████░░` Node.js, Python, FastAPI |
+| [Backend]([https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square](https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square)) | `█████████████████████░░` Node.js, Python, FastAPI |
 
-| ![Database]([https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square](https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square)) | `████████████████████░░░░` MongoDB, PostgreSQL, Redis |
+| [Database]([https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square](https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square)) | `████████████████████░░░░` MongoDB, PostgreSQL, Redis |
 
-| ![DevOps]([https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square](https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square)) | `██████████████████░░░░░░` Docker, AWS, CI/CD |
+| [DevOps]([https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square](https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square)) | `██████████████████░░░░░░` Docker, AWS, CI/CD |
 
-| ![Mobile]([https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square](https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square)) | `████████████████░░░░░░░░` React Native |
+| [Mobile]([https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square](https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square)) | `████████████████░░░░░░░░` React Native |
 
 </div>
 
