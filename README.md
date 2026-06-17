@@ -118,7 +118,7 @@ brutal-45@github:~$ whoami
 
 - 🤝 Open to **open source collaboration**
 
-- 🎯 Aiming for **2,500+ contributions**
+- 🎯 Aiming for **3,000+ contributions**
 
 - ✍️ Sharing **knowledge & code**
 
