@@ -528,10 +528,6 @@ graph TB
 
 <div align="center">
 
-```
-
-```
-
 <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&textColor=c9d1d9&borderColor=7c3aed&qcColor=0ea5e9&hideBorder=true" alt="Dev Joke" />
 
 <br/>
