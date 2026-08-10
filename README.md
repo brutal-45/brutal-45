@@ -1,32 +1,4 @@
-<!-- 
-
-╔══════════════════════════════════════════════════════════════╗ 
-
-║                                                              ║
-
-║   ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗ █████╗ ██████╗   ║
-
-║   ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗  ║ 
-
-║   ██████╔╝██║   ██║██████╔╝██████╔╝█████╗  ███████║██║  ██║  ║
-
-║   ██╔══██╗██║   ██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██║██║  ██║  ║
-
-║   ██████╔╝╚██████╔╝██║     ██║     ███████╗██║  ██║██████╔╝  ║
-
-║   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝   ║
-
-║                                                              ║  
-
-║               P R O F I L E   R E A D M E                    ║
-
-║               ✦ Ultra Premium Edition ✦                     ║
-
-║          @brutal-45 | [creatorsports81@gmail.com](mailto:creatorsports81@gmail.com)              ║
-
-║                                                              ║
-
-╚══════════════════════════════════════════════════════════════╝
+<!--
 
 -->
 
@@ -40,9 +12,9 @@
 
 </div>
 
-<!-- ==================== STATUS BADGES ==================== --> 
+<!-- ==================== STATUS BADGES ==================== -->
 
-<div align="center"> 
+<div align="center">
 
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-creatorsports81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:creatorsports81@gmail.com)
 
@@ -85,22 +57,6 @@
 ```terminal
 
 brutal-45@github:~$ whoami
-
-╭─────────────────────────────────────────────────────────────────╮
-│                                                                 |
-│   🧑‍💻  USER       :  brutal-45                                   |
-│   🎭  ROLE       :  Full-Stack Developer & Creator              |
-│   📍  LOCATION   :  🌍 Earth                                   |
-│   📧  EMAIL      :  creatorsports81@gmail.com                   |
-│   💼  STATUS     :  🟢 Open to Collaboration                   |
-│   🎓  LEARNING   :  Always                                      |  
-│   ☕  FUEL       :  Coffee & Curiosity                          |   
-│   🎯  GOAL       :  Make a dent in the universe                 |    
-│                                                                  |      
-│   💬  MOTTO      :  "Code hard, stay humble, ship fast."        |  
-│                                                                 |    
-╰─────────────────────────────────────────────────────────────────╯
-
 
 ```
 
@@ -572,44 +528,6 @@ graph TB
 
 <div align="center">
 
-```
-
- ╔═══════════════════════════════════════════════════════════════╗
-
- ║                                                               ║
-
- ║   $ git push --force                                          ║
-
- ║   > 😱 Wait... did I just...?                                 ║
-
- ║   > 💀 RIP production server                                  ║
-
- ║   > 🏃‍♂️ *deletes LinkedIn* *updates resume*                    ║
-
- ║                                                               ║
-
- ║   $ git log --oneline                                         ║
-
- ║   > fix bug                                                   ║
-
- ║   > fix bug again                                             ║
-
- ║   > fix bug for real this time                                ║
-
- ║   > FINAL bug fix                                             ║
-
- ║   > please just work                                          ║
-
- ║   > I give up                                                 ║
-
- ║   > actually fixed it (maybe)                                 ║
-
- ║                                                               ║
-
- ╚═══════════════════════════════════════════════════════════════╝
-
-```
-
 <img src="https://readme-jokes.vercel.app/api?bgColor=0d1117&textColor=c9d1d9&borderColor=7c3aed&qcColor=0ea5e9&hideBorder=true" alt="Dev Joke" />
 
 <br/>
@@ -686,5 +604,5 @@ graph TB
 
 </p>
 
-</div> 
+</div>
 
