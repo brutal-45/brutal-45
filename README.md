@@ -302,15 +302,15 @@ brutal-45@github:~$ whoami
 
 |:--------:|:------:|
 
-| [Frontend]([https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square](https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square)) | `████████████████████░░` React, Next.js, Vue, Tailwind |
+| ![Frontend](https://img.shields.io/badge/Frontend-90%25-7c3aed?style=flat-square) | `████████████████████░░` React, Next.js, Vue, Tailwind |
 
-| [Backend]([https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square](https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square)) | `█████████████████████░░` Node.js, Python, FastAPI |
+| ![Backend](https://img.shields.io/badge/Backend-85%25-0ea5e9?style=flat-square) | `█████████████████████░░` Node.js, Python, FastAPI |
 
-| [Database]([https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square](https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square)) | `████████████████████░░░░` MongoDB, PostgreSQL, Redis |
+| ![Database](https://img.shields.io/badge/Database-80%25-22c55e?style=flat-square) | `████████████████████░░░░` MongoDB, PostgreSQL, Redis |
 
-| [DevOps]([https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square](https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square)) | `██████████████████░░░░░░` Docker, AWS, CI/CD |
+| ![DevOps](https://img.shields.io/badge/DevOps-70%25-e11d48?style=flat-square) | `██████████████████░░░░░░` Docker, AWS, CI/CD |
 
-| [Mobile]([https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square](https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square)) | `████████████████░░░░░░░░` React Native |
+| ![Mobile](https://img.shields.io/badge/Mobile-65%25-f59e0b?style=flat-square) | `████████████████░░░░░░░░` React Native |
 
 </div>
 
@@ -322,15 +322,15 @@ brutal-45@github:~$ whoami
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed" alt="" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=brutal-45&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed" alt="" />
 
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=brutal-45&theme=radical&hide_border=true&ring=7c3aed&fire=e11d48&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=555555&background=0D1117" alt="Streak" />
+<img height="195" src="https://streak-stats.demolab.com?user=brutal-45&theme=radical&hide_border=true&ring=7c3aed&fire=e11d48&currStreakLabel=0ea5e9&sideLabels=c9d1d9&dates=555555&background=0D1117" alt="Streak" />
 
 </div>
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutal-45&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="" />
 
 <img height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=brutal-45&bg_color=0d1117&color=7c3aed&line=0ea5e9&point=e11d48&area=true&hide_border=true" alt="Activity Graph" />
 
@@ -363,21 +363,6 @@ brutal-45@github:~$ whoami
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">  Featured Projects
-
-<div align="center">
-
-[![Nexus-LLM](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brutal-45&repo=Nexus-LLM&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45/Nexus-LLM)
-
-[![brutal-image](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brutal-45&repo=brutal-image&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45/brutal-image)
-
-[![Brutal-mod](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=brutal-45&repo=Brutal-mod&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/brutal-45/Brutal-mod)
-
-</div>
-
----
 
 <!-- ==================== WORKFLOW ==================== -->
 
@@ -571,13 +556,13 @@ graph TB
 
 [![GitHub](https://img.shields.io/badge/GitHub-brutal--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brutal-45)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brutal-45)
 
-[![Twitter / X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Twitter / X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brutal-45)
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/brutal-45)
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Read-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@brutal-45)
 
 </div>
 
@@ -610,4 +595,3 @@ graph TB
 </p>
 
 </div> 
-
