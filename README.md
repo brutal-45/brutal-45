@@ -90,7 +90,7 @@ brutal-45@github:~$ whoami
 │                                                                 |
 │   🧑‍💻  USER       :  brutal-45                                   |
 │   🎭  ROLE       :  Full-Stack Developer & Creator              |
-│   📍  LOCATION   :  🌍 Earth                                   |
+│   📍  LOCATION   :  🌍 Earth                                    |
 │   📧  EMAIL      :  creatorsports81@gmail.com                   |
 │   💼  STATUS     :  🟢 Open to Collaboration                   |
 │   🎓  LEARNING   :  Always                                      |  
