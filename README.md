@@ -154,13 +154,6 @@ brutal-45@github:~$ whoami
 
 ---
 
-<h1>🖥️ Github Activity
-    <img
-      height="40"
-      alt="Mwaki Denis"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
-  </h1>
-  
 <!-- ==================== TECH STACK ==================== -->
 
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30">  Tech Arsenal
