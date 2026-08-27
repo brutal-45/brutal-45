@@ -1,9 +1,8 @@
-name: Python Script Update
+name: python script
 
 on:
-  schedule:
-    - cron: "*/9 * * * *"
   workflow_dispatch:
+  # Trigger manually once, and it will loop
 
 permissions:
   contents: write
@@ -12,22 +11,23 @@ jobs:
   update-timestamp:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Update timestamp file
+      - uses: actions/checkout@v4
+      - name: Run every 5 minutes in a loop
         run: |
-          TIMESTAMP_FILE="updates.txt"
-          echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > "$TIMESTAMP_FILE"
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "brutal-45 bot"
+          git config user.name "brutal-45"
           git config user.email "creatorsports81@gmail.com"
-          git add updates.txt
-          if ! git diff --cached --quiet; then
-            git commit -m "Update timestamp: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          
+          # Run for 5 hours (60 iterations x 5 minutes = 300 minutes)
+          for i in {1..60}; do
+            TIMESTAMP_FILE="updates.txt"
+            echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > "$TIMESTAMP_FILE"
+            git add "$TIMESTAMP_FILE"
+            
+            if ! git diff --cached --quiet; then
+              git commit -m "python script: $(date -u)"
+              git push origin HEAD
+            fi
+            
+            echo "Waiting 5 minutes..."
+            sleep 300
+          done
